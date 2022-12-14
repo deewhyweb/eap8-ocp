@@ -1,0 +1,5 @@
+build:
+  uri: https://github.com/deewhyweb/eap8-ocp.git
+  ref: main
+deploy:
+  replicas: 1
